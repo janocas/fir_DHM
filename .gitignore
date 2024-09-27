@@ -1,0 +1,8 @@
+*
+!*.md
+!.gitignore
+!*.xpr
+!*/
+!/FIR2_DHM.srcs/*
+!/FIR2_DHM.srcs/**/*
+!/Matlab/*
